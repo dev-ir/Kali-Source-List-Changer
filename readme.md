@@ -16,7 +16,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/Kali-Source-List-Change
 
 ## 🪚 Preview
 <p align="left">
-    <img width="100%" src="https://github.com/dev-ir/WaterWall-Tunnel/assets/114811214/2d5f3027-d7f8-439d-9f38-3f611ac5bb55" alt="Image">
+    <img width="100%" src="https://github.com/dev-ir/Kali-Source-List-Changer/assets/114811214/244e48cf-99d2-4c0f-be53-07d4864879fe" alt="Image">
 </p>
 
 ## 🙏 Support with Crypto 
