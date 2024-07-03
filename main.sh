@@ -201,14 +201,16 @@ menu() {
     echo "| |  <   / _  || || |   \___ \  / _ \ | | | || '__| / __| / _ \    | |     | |/ __|| __||"
     echo "| | . \ | (_| || || |   ____) || (_) || |_| || |   | (__ |  __/    | |____ | |\__ \| |_ |"
     echo "| |_|\_\ \__,_||_||_|  |_____/  \___/  \__,_||_|    \___| \___|    |______||_||___/ \__||"
+    echo "|                                                                                       |"
     echo "+---------------------------------------------------------------------------------------+"
-    echo "1. Update Mirror Automatically (Recommended)"
-    echo "2. Update Mirror Manually"
-    echo "3. Test Mirror Only"
-    echo "4. Backup sources.list"
-    echo "5. Restore sources.list"
-    echo "6. Exit"
-}
+    echo "| 1. Update Mirror Automatically (Recommended)                                          |"
+    echo "| 2. Update Mirror Manually                                                             |"
+    echo "| 3. Test Mirror Only                                                                   |"
+    echo "| 4. Backup sources.list                                                                |"
+    echo "| 5. Restore sources.list                                                               |"
+    echo "| 6. Exit                                                                               |"
+    echo "+---------------------------------------------------------------------------------------+"
+}   
 
 while true; do
     check_root_user
